@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Yasmin Lukman - PSCI 3200"   
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: rq_data.qmd
+        text: Research Question

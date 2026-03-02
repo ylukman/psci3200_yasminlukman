@@ -1,0 +1,29 @@
+---
+title: "Final Project Research Question and Dataset"
+format: html
+editor: visual
+---
+
+# [Research Question]{.underline}
+
+### According to Ghana's Water Resources Commission, Mercury and heavy metals have contaminated over 60% of the country's water sources.
+
+### Many protests against illegal mining operations have sparked across the capital, Accra, despite galamsey not physically taking place in the city. They still face the consequences in surrounding water bodies.
+
+### In 2024, 36% of the gold produced in Ghana came from legal small-scale mines, with a value of around \$1.7 billion. Estimates suggest less than 30% of these mines are formally registered with the government, meaning gold they mine goes under the radar.
+
+#### Does living in a mining community increase the likelihood of residents engaging in illegal mining (galamsey) in Ghana?
+
+This study would investigate whether geographic proximity to active mining zones shapes residents' attitudes toward and participation in galamsey, Ghana's widespread illegal small-scale mining problem.
+
+The variables that may be measured are living in a mining community and willingness to engage in galamsey. These may be drawn from questions around economic desperation and attitudes toward rule breaking for economic survival.
+
+Those who live in areas with no/depleted gold sites may not necessarily care to engage in the act, and fight against it to save existing water supply in the country.
+
+However, people who live in these gold-dense areas may not entirely be tempted to if they view the risks outweigh the benefits, pertaining to their health, potentially facing criminal charges, or they are not fit enough to mine.
+
+Datasets that might help answer this:
+
+A paper on [socio-demographic factors affecting artisanal and small-scale mining operations in Ghana](https://pmc.ncbi.nlm.nih.gov/articles/PMC8904608/). This paper contains data on key variables like income, education and location influence behavior surrounding involvement in illegal small-scale mining.
+
+[Afrobarometer Round 7 Ghana Survey (2017) available at afrobarometer. org](https://www.afrobarometer.org/publication/ad175-ghanaians-disapprove-illegal-mining-endorse-alternative-livelihood-support-by-government/), which details which areas were in approval vs. opposition to the government's handling of the fight against galamsey. It also has individual-level survey responses on attitudes towards galamsey, region of residence, employment and education.
