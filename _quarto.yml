@@ -10,5 +10,5 @@ website:
         text: Home
       - href: rq_data.qmd
         text: Research Question
-         - href: rq_data2.qmd
+      - href: rq_data2.qmd
         text: Research Question 2
