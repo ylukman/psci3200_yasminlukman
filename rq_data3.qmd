@@ -1,0 +1,151 @@
+---
+title: "Final Project Research Question and Dataset 3"
+format: html
+editor: visual
+---
+
+# Research Question
+
+## Introduction
+
+Galamsey, Ghana’s term for illegal small-scale mining, has contaminated over 60% of the country’s water sources with heavy metals, yet it persists because it provides livelihoods for hundreds of thousands of Ghanaians with few economic alternatives.
+
+A paper on the health hazards associated with the exposure to galamsey-related pollutants shows how galamsey, although a lucrative source of income for some underprivileged areas,comes with pollutants that "contaminate water bodies and ecosystems with high concentrations of mercury, acid, arsenic, lead and nickel" and "the release of toxic petroleum hydrocarbons(like methane and volatile organic carbons) due to spills and leaks," which "poses significant risks to ecosystems and human health." @awewomom2024 These risks with environmental and health concerns may seem enough to deter the practice. However, existing research shows that illegal mining in Ghana is shaped by both economic necessity and environmental concern. A study that examined the gaps between mining laws and galamsey's persistence highlighted that the act provides livelihoods for many while causing environmental damage. The study also notes that economic pressures like unemployment push participation. @vovobu2024
+
+While the economic dimensions of illegal mining are well-documented, the environmental attitudes of those involved remain comparatively under-explored. Researchers have observed that environmental concern is not uniform, and varies significantly by country, income level, and degree if economic vulnerability. This comes from inquiry on how populations in developing contexts weigh environmental risk against immediate livelihood pressures. In the paper, The impact of macroeconomic factors on environmental concern, @conroy2014, find that in general, when economic conditions are "unfavorable", like higher unemployment, or lower GDP growth in an economy, respondents are more likely to believe that, in the case of the U.S, the government is "spending too much on 'improving and protecting the environment'". This follows their notion that environmental quality is a normal pro-cyclical good that environmental spending (or the concern related to its spending) should rise when an economy is expanding and fall during economic contractions.
+
+Similarly, @Franzen2010, in their paper on Environmental Attitudes in Cross-National Perspective, claim that "individuals who live in a relatively high-income household, as measured by the deviation from a country's mean income, report a higher concern for the environment than individuals in households with relatively lower income." Franzen and Meyer also deduce from their findings that this individual effect confirms the "prosperity assumption" which states that one's willingness to invest in the quality of an environment increases with income, and that a concern for the environment depends on individuals' post materialistic attitudes, which include fighting for environmental protection. This post materialist thesis suggests that environmental concern is a luxury afforded by economic security. Where basic needs remain unmet, individuals and communities are more likely to prioritize immediate survival over long-tern ecological considerations, out of rational necessity. This has significant implications for understanding participation in illegal mining in developing contexts like Ghana, where high unemployment and limited economic alternatives constrain the range of priorities people can hold.
+
+My research question then, to find out if there are any trade-offs between care for the environment and economic well-being, is:
+
+**To what extent do economic hardship and environmental concerns influence attitudes toward illegal mining in Ghana?**
+
+Understanding this matters because it may explain why the act persists despite its damaging effects. If support for illegal mining is driven by poverty rather than indifference to environmental harm, then criminalizing the act without addressing its economic roots may not change public behaviour. 
+
+This is what underscores @Jahanshahi2025 's paper on self-preservation as a priority over social responsibility, where for those struggling to meet basic needs, issues like climate change and social responsibility are viewed as "peripheral concerns" that have little relevance when day-to-day survival is at stake. Likewise, a Global Citizen article by Megha @cherian2014 reports on the issue, emphasizing on the role of poverty in driving participation though there are negative effects. This tension provides the foundation for investigating how individuals in Ghana form attitudes toward illegal mining.
+
+# Hypothesis
+
+**Individuals experiencing greater economic hardship will be more likely to express supportive or tolerant attitudes toward illegal mining in Ghana, even when they recognize its environmental harms.**
+
+This hypothesis rests on the theoretical logic that economic necessity restructures how individuals prioritize competing goods, and how they evaluate environmentally harmful activities. When basic material needs like food, shelter or income, are unmet , people are less likely to prioritize longer-term goods like environmental protection.
+
+Maslow's Hierarchy of Needs provides a useful framework here: physiological and safety needs occupy the base of the hierarchy and must be satisfied before individuals attend to higher-order concerns. Environmental protection sits outside of these foundational tiers. The key theoretical implication is that economic hardship shifts the trade-off calculation, tolerating environmental damage becomes a rational response when the alternative is a deprivation of basic needs.
+
+In the Ghanaian context of illegal mining, this persists partly because it provides an important short term source of income for individuals for limited employment opportunities. The lack of alternative jobs pushes many people, especially those who have lost agricultural income, to turn to mining as a means of survival. A Global Citizen article also reveals that the illegal miners 'rely on daily revenue to provide food and shelter for their families.' @cherian2014 .When survival depends on daily revenue, the environmental costs of mining like contaminated waterways and mercury exposure, may be recognized but de-prioritized. This is the core mechanism linking economic hardship to tolerant attitudes toward illegal mining, that necessity weakens the weight individuals assign to environmental harm in their evaluative calculus.
+
+Conversely, those with greater economic security , measured by having a stable, formal employment or diversified income sources, will have less favorable attitudes toward illegal mining in Ghana. Without the dependence on mining income, they bear the environmental costs of galamsey without receiving its economic benefits. For these individuals, opposition to illegal mining is both economically rational and environmentally motivated. The visibility of environmental damage, such as contaminated water or mercury-related deaths, may reinforce negative attitudes particularly among those not materially compensated by the activity.
+
+# Data And Variables
+
+This study draws on Afrobarometer Round 7 conducted in Ghana in 2017 by the research organization, @afrobarometer_r7 . The unit of analysis is the individual respondent and the sample contains approximately 2,400 Ghanaian citizens above the age of 18. 
+
+The specific variables I used to test my hypothesis were Galamsey Support as the dependent variable, measured by the survey question asking whether citizens should be able to engage in illegal small-scale mining or should not engage in it for any reason. Responses are coded on a five-point scale ranging from 1 (strongly disapprove) to 5(strongly approve), with higher values indicating greater support for galamsey.
+
+The primary independent variable is Lived Poverty Index(LPI), a composite measure constructed by averaging five survey items that ask respondents how often, over the past year, they went without: (1) food, (2) clean water, (3) medical care, (4) cooking fuel, and (5) a cash income. Each item is coded on a five-point scale from 0(never) to 4(always). These five items are then averaged to produce a continuous index ranging from 0 to 4, where higher scores reflect greater material deprivation.
+
+Taking this average is appropriate because it treats each domain of hardship as equally weighted and captures a generalized experience of poverty rather than deprivation in any single area. Respondents with missing values on one or more of the five items were excluded form the index calculation to ensure that the average accurately reflects responses across all dimensions rather than being skewed by partial data.
+
+The secondary independent variable is Environmental Concern, measured using a proxy in the Afrobarometer survey, that asks respondents how, in their experience, climate conditions for agricultural production in their area have gotten over the last 10 years. Environmental concern is defined here as an individual's perceived deterioration of environmental conditions based on direct, lived experience. While no question in the Round 7 instrument directly asks about environmental concern or galamsey-specific degradation, this proxy is theoretically defensible in the Ghanaian context: galamsey's well-documented destruction of water bodies, farmland, and forest cover means that respondents reporting worsening agricultural and climate conditions are plausibly responding to the cumulative environmental toll of illegal mining activity as these operations act as a "threat to agricultural lands" and lead to "deforestation leading to soil erosion, destruction of agricultural lands and pollution of water bodies." @gyimah2019
+
+Environmental concern in this case is coded from 0-9, where 0 is not asked, 1-5 goes from much worse to much better, 7 is not applicable, 8 is refused, and 9 is don't know. This means a value of 1 reflects greater perceived environmental deterioration.
+
+```{r, echo=FALSE}
+library(tidyverse) 
+library(haven)
+library(ggplot2)
+r7_data <- read_sav("C:\\Users\\Yasmin Lukman\\Downloads\\gha_r7_data.sav")
+r7_data1 <- r7_data %>% mutate(
+  across(c(Q8A, Q8B, Q8C, Q8D, Q8E, Q8F), ~ifelse(. < 0, NA, .)),  poverty_index = rowMeans(select(., Q8A, Q8B, Q8C, Q8D, Q8E, Q8F), na.rm = TRUE),
+  galamsey_support = ifelse(Q83A_GHA < 0, NA, Q83A_GHA),
+  env_concern = ifelse(Q71 < 0, NA, Q71) )
+r7_data1 <- r7_data1 %>%
+  mutate(
+    poverty_cat = cut(
+      poverty_index,
+      breaks = c(0, 1, 2, 3, 4),
+      labels = c("Low", "Moderate", "High", "Very High"),
+      include.lowest = TRUE
+    )
+  )
+
+ggplot(r7_data1, aes(x = poverty_cat, fill = factor(galamsey_support))) +
+  geom_bar(position = "dodge") +
+  labs(
+    title = "Lived Poverty and Support for Illegal Mining (Galamsey)",
+    x = "Level of Lived Poverty",
+    y = "Number of Respondents",
+    fill = "Support for Galamsey",
+    caption = "Figure 1:A grouped bar chart showing support for illegal mining (galamsey) across levels of lived poverty. A higher score on the galamsey support variable indicates greater approval of illegal small-scale mining.(Afrobarometer Round 7 Ghana Survey)"
+  ) +
+  theme_minimal()
+```
+
+Figure 1 displays the distribution of Galamsey Support across levels of Lived Poverty. First, the majority of respondents fall within the moderate poverty category, with comparatively few reporting very high levels of deprivation. Within this poverty group, responses are heavily concentrated around category 4 on the galamsey support scale, suggesting a general lean toward approval of illegal mining among those experiencing moderate hardship. If the hypothesis is correct, that higher lived poverty is associated with greater support for galamsey, then one would expect to see a rightward shift in the support distribution as poverty levels increase. This plot offers partial, tentative support for this pattern: the moderate group shows a spike in category 4 and the low group appears more spread across lower support values by comparison. However, the very high poverty categories contain too few respondents to draw meaningful conclusions, which limits the ability to assess the relationship at the extremes of the poverty scale.
+
+### Descriptive Statistics
+
+```{r, echo=FALSE}
+summary_df <- data.frame(
+  Variable = c("Galamsey Support", "Lived Poverty Index", "Environmental Concern"),
+  Mean     = c(mean(r7_data1$galamsey_support, na.rm = TRUE),
+               mean(r7_data1$poverty_index,    na.rm = TRUE),
+               mean(r7_data1$env_concern,      na.rm = TRUE)),
+  Min      = c(min(r7_data1$galamsey_support,  na.rm = TRUE),
+               min(r7_data1$poverty_index,      na.rm = TRUE),
+               min(r7_data1$env_concern,        na.rm = TRUE)),
+  Max      = c(max(r7_data1$galamsey_support,  na.rm = TRUE),
+               max(r7_data1$poverty_index,      na.rm = TRUE),
+               max(r7_data1$env_concern,        na.rm = TRUE)),
+  SD       = c(sd(r7_data1$galamsey_support,   na.rm = TRUE),
+               sd(r7_data1$poverty_index,       na.rm = TRUE),
+               sd(r7_data1$env_concern,         na.rm = TRUE))
+)
+
+summary_df <- summary_df %>%
+  mutate(across(where(is.numeric), ~ round(., 2)))
+ summary_df
+
+```
+
+Figure 2 presents the descriptive statistics for the three key variable. Galamsey Support with a mean of of 3.44 on a 1-9 scale, suggesting on average, respondents lean modestly toward approving of illegal mining. The Lived Poverty Index has a mean of 1.39 on a 0-4 scale, reflecting that average respondent experiences moderate poverty but not severe material deprivation. Environmental Concern has a mean of 3.10 and suggests that respondents recognize some change to climate conditions compared to ten years ago.
+
+# Research Design
+
+To test whether economic hardship and environmental concern pull in opposite directions and whether poverty conditions the weight individuals place on environmental concern when evaluating galamsey, the main specification is an OLS regression model.
+
+$$
+GalamseySupport_i​=β0​+β1​PovertyIndex_i​+β2​EnvConcern_i​+β3​(PovertyIndex_i\times EnvConcern_i)​+β4​WaterSatisfaction_i​+β5​Urban_i​+β6​Employment_i​+β7​Education_i​+β8Region_i+​β9PartyID_i​+ϵ_i​
+$$
+
+## Key Coefficients
+
+β1 captures the baseline relationship between economic hardship and galamsey support, holding all other variables constant. The hypothesis would predict β1 \>0, meaning higher poverty is associated with greater support for galamsey.
+
+β2 looks at if environmental concern reduces support for galamsey, where β2 \< 0. This would mean greater environmental concern should generally be associated with lower support for galamsey, as individuals who have higher environmental concern are less likely to tolerate the ecological damage it produces.
+
+β3 is the interaction term between environmental concern and poverty index. This tests the conditional hypothesis directly, whether economic hardship weakens the negative relationship between environmental concern and galamsey support. The expectation is β3 \> 0. Among respondents experiencing greater poverty, environmental concern may be less predictive of opposition to galamsey, because the trade-off between survival environmental protection that underlies the theoretical framework is only observable with this interaction. A positive β3 indicates that as poverty increases, the dampening effect of environmental concern on galamsey support weakens. This is also consistent with the Maslow-based logic developed in the hypothesis section.
+
+## Control Variables
+
+β4- Water Satisfaction: Individuals who are dissatisfied with their water supply may attribute that dissatisfaction to galamsey's contamination of local waterways, making them more opposed to the practice regardless of their poverty level. Without controlling for this, the effect of environmental concern could be confounded by a direct, personal experience of environmental harm, outside of galamsey, like living in an area with prior industrial pollution or poor sanitation practices.
+
+β5- Urban/Rural Context: Urban and rural respondents differ systematically in their proximity to mining activity, their dependence on natural resources and their exposure to galamsey's harms and benefits. Rural individuals, particularly in mining regions, may be more economically reliant or directly affected by illegal mining. Omitting this could risk confounding geographic exposure with economic hardship.
+
+β6- Employment Status: Employment captures a dimension of economic vulnerability from the poverty index. A respondent may score moderately on a poverty index but be acutely vulnerable due to unemployment. Including employment alongside poverty prevents the poverty coefficient from absorbing employment-driven variation.
+
+β7- Education: This is associated with both environmental awareness and economic status, making it a potential confounder in both directions. The more educated an individual is, the stronger their environmental values, independent of income may be. They may also be more economically secure. Without controlling for education, it may be difficult to isolate whether observed attitude differences reflect economic hardship or differential environmental literacy.
+
+β8- Region: Ghana's regions vary in their exposure to illegal minimg, proximity to affected ecosystems and historical relationship with mining. Respondents in the Ashanti or Western Regions, where illegal mining is most concentrated, may hold systematically different attitudes than those in the north. Region also correlates with poverty levels, as some regions may be poorer than others, making it an important control.
+
+β9-PartyID: Party identification correlates with political affiliation in Ghana that may shape attitudes toward state enforcement of environmental regulations and economic development priorities. Since both major parties, NPP and NDC, have taken varying positions on galamsey crackdowns, party ID could confound the relationship between economic hardship and attitudes if it correlates with both.
+
+ϵi​ is the error term, capturing at unobserved terms in galamsey attitudes not accounted for by the model. Relevant omitted variables may include social norms within mining communities, which may not be easily captured in standard survey instruments.
+
+## Threats and Confounders
+
+A key threat in interpreting the coefficient in economic hardship as causal is omitted variable bias. Unobserved factors such as local employment opportunities and trust in the government may influence both individuals' economic conditions and their attitudes toward illegal mining. These can be potential confounders that confuse the relationship. Reverse causality is also a concern, as individuals who support or participate in illegal mining may experience different economic outcomes as a result.
+
+## Empirical Extension
+
+There are a number of potential limits in interpreting the relationship between economic hardship and support for illegal mining. For example, individuals experiencing hardship may simply have a broader tolerance for rule-breaking or weaker adherence to legal norms, rather that being motivated specifically by the economic benefits of mining to them. In order to strengthen my causal analysis, I will implement a placebo test by examining whether economic hardship also predicts attitudes toward unrelated forms of law breaking such as tax evasion or refusal to pay government fees. If my findings are driven by a general tolerance for illegality, I would expect hardship to increase support across these behaviors as well. However, if my hypothesis is right, economic hardship should predict support for illegal mining but not for these unrelated illegal acts. No relationship found strengthens my argument, and is not from a general tolerance for rule breaking.

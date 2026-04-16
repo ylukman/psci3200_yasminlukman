@@ -12,3 +12,11 @@ website:
         text: Research Question
       - href: rq_data2.qmd
         text: Research Question 2
+      - href: rq_data3.qmd
+        text: Research Question 3
+execute:
+  echo: false
+  warning: false
+  message: false
+  
+bibliography: references.bib

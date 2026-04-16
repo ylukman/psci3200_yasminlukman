@@ -30,7 +30,8 @@ r7_data <- read_sav("C:\\Users\\Yasmin Lukman\\Downloads\\gha_r7_data.sav")
 ```{r}
 r7_data1 <- r7_data %>% mutate(
   across(c(Q8A, Q8B, Q8C, Q8D, Q8E, Q8F), ~ifelse(. < 0, NA, .)),  poverty_index = rowMeans(select(., Q8A, Q8B, Q8C, Q8D, Q8E, Q8F), na.rm = TRUE),
-  galamsey_support = ifelse(Q83A_GHA < 0, NA, Q83A_GHA) )
+  galamsey_support = ifelse(Q83A_GHA < 0, NA, Q83A_GHA),
+  env_concern = ifelse(Q71 < 0, NA, Q71) )
 ```
 
 ```{r}
