@@ -48,6 +48,7 @@ r7_data1 <- r7_data1 %>%
 ```
 
 
+
 # Research Question
 
 Galamsey, Ghana’s term for illegal small-scale mining, has contaminated over 60% of the country’s water sources with heavy metals, yet it persists because it provides livelihoods for hundreds of thousands of Ghanaians with few economic alternatives. My research question then, to find out if there are any trade-offs between care for the environment and economic wellbeing is:

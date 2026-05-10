@@ -8,12 +8,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: rq_data.qmd
-        text: Research Question
-      - href: rq_data2.qmd
-        text: Research Question 2
       - href: rq_data3.qmd
-        text: Research Question 3
+        text: Final Project
+      - text: "More"  
+        menu: 
+          - href: rq_data.qmd
+            text: Preliminary Research Design
+          - href: rq_data2.qmd
+            text: Expanded Research Design 
+      
+        
 execute:
   echo: false
   warning: false
